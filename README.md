@@ -53,7 +53,7 @@ To fully utilize this project, the following QGIS plugins are recommended:
 
 - **QuickOSM**: see [resources_QuickOSM.md](docs%2Fdata%2Fresources_QuickOSM.md)
  
-- **QGISField**: Used for field data collection and management (potential Mobile sync)
+- **QField Sync**: this project is hosted on QFieldCloud at https://app.qfield.cloud/a/lanur622/matsutake_cloud. QFieldCoud helps with multiplatform data collection and management (https://github.com/opengisch/qfieldsync)
 
 
 ## Documentation
