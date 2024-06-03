@@ -5,13 +5,9 @@
 __pycache__/
 *.py[cod]
 
-# Ignore IntelliJ IDEA project files
-.idea/
-
-# Ignore other unwanted files
+# Ignore specific unwanted files
+*.gpkg-shm
+*.gpkg-wal
 *.crdownload
-*.zip
-*.xml
-*.jpg
-*.png
+
 
