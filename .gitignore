@@ -1,0 +1,17 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore other unwanted files
+*.crdownload
+*.zip
+*.xml
+*.jpg
+*.png
+
