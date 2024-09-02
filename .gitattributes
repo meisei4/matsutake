@@ -1,2 +1,0 @@
-main/data/source_data/* filter=lfs diff=lfs merge=lfs -text
-nagano_clipped_10xRes.tif filter=lfs diff=lfs merge=lfs -text

@@ -1,13 +1,4 @@
-# Ignore macOS system files
+
+main/data/source_data/.DS_Store
+
 .DS_Store
-
-# Ignore Python bytecode
-__pycache__/
-*.py[cod]
-
-# Ignore specific unwanted files
-*.gpkg-shm
-*.gpkg-wal
-*.crdownload
-
-
